@@ -1,8 +1,4 @@
 git niu bia
 amd yes
 clearlove
-<<<<<<< HEAD
-a & b
-=======
-a and b
->>>>>>> feature1
+a an b
